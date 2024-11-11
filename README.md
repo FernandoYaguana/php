@@ -4,6 +4,8 @@ This is a simple PHP calculator web application that allows you to perform basic
 
 The user enters two numbers and selects the desired operation.
 
+> To view this project in your browser you can click [here](https://php-production-fa42.up.railway.app/).
+
 ## Technologies used
 
 - PHP
