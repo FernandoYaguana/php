@@ -1,4 +1,4 @@
-# Calculadora en PHP
+# PHP Calculator
 
 This is a simple PHP calculator web application that allows you to perform basic operations such as adding, subtracting, multiplying and dividing.
 
@@ -17,7 +17,7 @@ To clone this repository to your local machine and start working with the projec
 2. Open the terminal or command line and run the following command to clone the repository:
 
     bash
-    https://github.com/FernandoYaguana/python.git
+    https://github.com/FernandoYaguana/php.git
    
 3. To verify that the repository was cloned correctly, enter the project directory:
    
@@ -26,27 +26,19 @@ To clone this repository to your local machine and start working with the projec
     
 ## Usage
 
-1. Have Python installed
+1. Open VSCode
 
-2. Open VSCode
+2. In VSCode download the PHP Extension Pack
 
-3. Drag the entire folder where we saved the project to VSCode
+3. In VSCode install the PHP Server extension
 
-4. Open the main.py file 
+4. Drag the entire folder where we saved the project to VSCode
 
-5. If you do not have the FastApi library installed, open the VSCode terminal and type the following command: _pip install fastapi_
+5. Open the index.php file
 
-6. If you do not have the Uvicorn library installed, open the VSCode terminal and type the following command: _pip install uvicorn_
+6. Click on the blue symbol of the PHP Server extension
 
-7. Then in the VSCode terminal type the following command: _python -m uvicorn main:app --reload_
-
-8. Copy the line where http://127.0.0.1:8000 is displayed
-
-9. Copy this url into your browser
-
-10. When opening the URL, the following message should be displayed: Hola Mundo desde Python!
-
-11. To stop the program go to the VSCode terminal and press the Ctrl + C keys  
+7. The URL where the calculator is displayed will open
 
 ## Contribution
 
